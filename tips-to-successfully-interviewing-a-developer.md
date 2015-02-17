@@ -19,3 +19,6 @@ Why?
 - The best developers do not work with agencies
 - Skimping on a hourly salary results in a more expensive project. A good rule of thumb for direct cost is $125/hr.
 - Approach developers by appealing to their curiosity. The best people to have on your team are the ones who are passionate about the cause! 
+
+
+![Alt Text](http://big.assets.huffingtonpost.com/2014officespace18.gif)
