@@ -41,4 +41,3 @@ Between apps, PhoneGap can provide a quick and affordable prototype that works o
 If you are sure that an app is the best solution for you, check out this link to learn lessons from the world’s most successful mobile apps, like Instagram, Snapchat, Evernote, Clear, and Camera+:
 
 http://www.entrepreneur.com/article/230160
-
