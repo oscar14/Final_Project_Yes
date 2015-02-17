@@ -1,12 +1,12 @@
 **Three must ask questions:**
 
-1. What [_version_control_system_ / _unit_testing_tool_ / _framework_] do you use?
+1. What [_version control system_ / _unit testing tool_ / _framework_] do you use?
 2. What did you compare it to?
 3. How did you select it?
 
 Why?
-- _Version_control_system_: do not hire someone who is not keeping track of different version of their programs
-- _Unit_testing_tool_: do not hire a developer who is not testing parts of their code
+- _Version control system_: do not hire someone who is not keeping track of different version of their programs
+- _Unit testing tool_: do not hire a developer who is not testing parts of their code
 - _Framework_: it it highly unlikely that you are interviewing one of the few hundred developers in the world who are so good they do not need frameworks. If you do come across one of these individuals, do not waste their talents on building frameworks!
 
 **Other qualities to look for:**
