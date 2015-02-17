@@ -10,7 +10,7 @@ Why?
 - _Framework_: it it highly unlikely that you are interviewing one of the few hundred developers in the world who are so good they do not need frameworks. If you do come across one of these individuals, do not waste their talents on building frameworks!
 
 **Other qualities to look for:**
-- Curiosity
+- Curiosity: it's extremely valuable and cannot be taught
 - Developers who present possible options rather than say something cannot be done 
 - Someone who can understand the user perspective
 - Someone who is organized in their manner of thinking: who writes code that writes code; who does not duplicate code within the same program; who designs for and exploits concurrency.
