@@ -4,4 +4,5 @@ Given the high and convex nature of dollars spend programming applications, the 
 
 Concierge MVP prototypes provide potential customers with the impression of what the product or service may look like at little investment cost, while offering useful information from the customer’s perspective.  A prototype’s ability to iterate and ultimately, squarely face the problem space will ultimately point the way towards potential success for the business.
 
+Get Lean now.  Read up. Join the party: http://theleanstartup.com/
 ![Alt Text](http://img3.wikia.nocookie.net/__cb20130908135918/villains/images/2/26/Bebopandrocksteady.jpg)
