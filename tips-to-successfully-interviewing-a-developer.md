@@ -24,3 +24,6 @@ To keep up on the latest industry news read: https://news.ycombinator.com/
 
 
 ![Alt Text](http://big.assets.huffingtonpost.com/2014officespace18.gif)
+
+
+Feedback? @lawsonanderson @oscar14 @cknaupp15 @mqian15 @abigailstone
