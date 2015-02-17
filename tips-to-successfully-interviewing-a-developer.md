@@ -20,5 +20,7 @@ Why?
 - Skimping on a hourly salary results in a more expensive project. A good rule of thumb for direct cost is $125/hr.
 - Approach developers by appealing to their curiosity. The best people to have on your team are the ones who are passionate about the cause! 
 
+To keep up on the latest industry news read: https://news.ycombinator.com/
+
 
 ![Alt Text](http://big.assets.huffingtonpost.com/2014officespace18.gif)
