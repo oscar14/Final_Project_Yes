@@ -8,4 +8,3 @@ Get Lean now.  Read up. Join the party: http://theleanstartup.com/
 
 ![Alt Text](http://img3.wikia.nocookie.net/__cb20130908135918/villains/images/2/26/Bebopandrocksteady.jpg)
 
-Please provide feedback: @jenadeng, @oscar14, @abigailcstone, @mqin15, @cknaupp15
