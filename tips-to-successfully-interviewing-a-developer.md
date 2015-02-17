@@ -1,6 +1,6 @@
 Three must ask questions:
 
-1. What [version control system / unit testing tool / framework] do you use?
+1. What [_version_control_system_ / _unit_testing_tool_ / _framework_] do you use?
 2. What did you compare it to?
 3. How did you select it?
 
