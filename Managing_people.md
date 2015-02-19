@@ -26,6 +26,4 @@ Both as a worker and a manager:
 
 The book can be purchased on Amazon at http://www.amazon.com/s/ref=nb_sb_noss/180-7892125-6606708?url=search-alias%3Daps&field-keywords=pragmatic+programmer 
 
-![Alt Text](https://upload.wikimedia.org/wikipedia/en/8/8f/The_pragmatic_programmer.jpg)
-
-Team, can I get some feedback? @MQin15 @jenadeng @cknaupp15 @abigailcstone @lawsonanderson
+![Alt Text](http://static.boredpanda.com/blog/wp-content/uploads/2015/02/Dogs-Can-Be-Jerks-Too-8__605.jpg)
