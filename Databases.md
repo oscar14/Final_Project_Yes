@@ -6,3 +6,5 @@ A variety of different types of databases have emerged that are NOT relational d
 
 NuSQL (“new sequel”) is an emerging classification of databases that is still in its experimental stage. One example is NuoDB. Data is retrieved using SQL but written in a way that’s easy to scale from multiple servers (as is most common now) with lots of nodes. However, engineers who advocate this type of database have had a hard time getting people to adopt this format. 
 Immutable and time series databases are very new and very niche. They are built for functional-based programming languages and the concept is that instead of changing variables inside the database as it needs to be updated, you add to the database, creating something like an ongoing list. An example of this is Datomic. 
+
+http://heimeriks.net/wp-content/uploads/2011/10/ISI-Relational-database.gif
